@@ -10,7 +10,7 @@ body {
 }
 .container {
   max-width: 1378px;
-  margin: 0 auto; 
+  margin: 0 auto;
 }
 [class^="col"] {
   padding: 0 0.5rem;
@@ -56,19 +56,14 @@ body {
 }
 nav {
   background-color: white;
-  position: sticky;
-  top: 0;
-  left: 0;
-  right: 0;
-  display: inline-block;
+  display: flex;
   border-bottom: 1px solid gray;
 }
 .navbar ul {
   list-style-type: none;
   display: flex;
 }
-.navbar ul li {
-  display: inline-flex;
+.navbar ul li { 
   font-size: 17px;
   line-height: 30.1px;
   display: inline-block;
@@ -80,21 +75,20 @@ nav {
   font-weight: 400;
 }
 .navbar ul img {
-  padding-right: 1rem;
-
-  display: inline-block;
+  padding-right: 1rem; 
 }
 .nav-img{
-  display: flex;
-  justify-content: flex-end;
+  display: block;
+  margin-right: 20px; 
 }
-.nav-img button{
+.nav-img button {
   border: none;
-  background-color: #FF9C08;
+  background-color: #ff9c08;
   border-radius: 10px;
 }
 .nav-img button a {
   color: black;
   text-decoration: none;
   font-weight: 700;
+  padding: 15px;
 }
