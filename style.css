@@ -11,3 +11,6 @@ body{
   margin: 0 auto;
   padding: .5rem;
 }
+[class^="col"] {
+  padding: 0 0.5rem;
+}
