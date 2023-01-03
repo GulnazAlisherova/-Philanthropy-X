@@ -1,17 +1,17 @@
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;700&family=Roboto:wght@700&display=swap");
 
-body{
+body {
   margin: 0;
   position: absolute;
-  font-family: "Roboto", sans-serif;
+  font-family: "DM Sans", sans-serif;
 }
 * {
   box-sizing: border-box;
 }
-.container{
+.container {
   max-width: 800px;
   margin: 0 auto;
-  padding: .5rem;
+  padding: 0.5rem;
 }
 [class^="col"] {
   padding: 0 0.5rem;
@@ -55,7 +55,7 @@ body{
 .col-12 {
   flex: 0 0 100%;
 }
-nav{
+nav {
   background-color: white;
   position: sticky;
   top: 0;
@@ -64,13 +64,13 @@ nav{
   display: inline-block;
   border-bottom: 1px solid gray;
 }
-.navbar ul{
+.navbar ul {
   list-style-type: none;
 }
 .navbar ul li {
   display: inline-flex;
   font-size: 17px;
-  line-height: 30.1px; 
+  line-height: 30.1px;
   display: inline-block;
 }
 .navbar ul li a {
@@ -78,8 +78,8 @@ nav{
   color: #090909;
   padding: 1rem;
 }
-.navbar ul img{
+.navbar ul img {
   padding-right: 1rem;
-  
+
   display: inline-block;
 }
