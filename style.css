@@ -141,3 +141,6 @@ nav {
   cursor: pointer;
   transition: 1s;
 }
+section{
+  border-top: 1px solid lightgray;
+}
