@@ -118,6 +118,13 @@ nav {
   padding: 18px;
   border-radius: 10px;
   font-weight: 700;
+  border-color: transparent;
+}
+.btn-1:hover{
+  border: 1px solid lightgray;
+  background-color: white;
+  transition: 1s;  
+  cursor: pointer;
 }
 .btn-2{
   font-weight: 700;
