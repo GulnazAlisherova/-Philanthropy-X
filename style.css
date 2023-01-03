@@ -66,6 +66,9 @@ nav{
 .navbar ul li {
   display: inline-flex;
   font-size: 17px;
-  line-height: 30.1px;
-
+  line-height: 30.1px; 
+  display: inline-block;
+}
+.navbar ul li a {
+  text-decoration: none;
 }
