@@ -103,8 +103,11 @@ nav {
   font-weight: 700;
 }
 .first-side{
-  margin: 3rem;
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
 }
+ 
 .first-side h1{
   font-size: 60px;
   line-height: 79px;
