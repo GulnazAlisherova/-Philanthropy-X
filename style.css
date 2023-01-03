@@ -116,9 +116,10 @@ nav {
   border: none;
   background-color:#FF9C08;
   padding: 18px;
-  
   border-radius: 10px;
+  font-weight: 700;
 }
 .btn-2{
-
+  font-weight: 700;
+  border-radius: 10px;
 }
