@@ -9,8 +9,12 @@ body {
   box-sizing: border-box;
 }
 .container {
-  max-width: 1378px;
+  max-width: 1300px;
   margin: 0 auto;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
 }
 [class^="col"] {
   padding: 0 0.5rem;
@@ -57,13 +61,13 @@ body {
 nav {
   background-color: white;
   display: flex;
-  border-bottom: 1px solid gray;
 }
 .navbar ul {
   list-style-type: none;
   display: flex;
+  align-items: flex-start;
 }
-.navbar ul li { 
+.navbar ul li {
   font-size: 17px;
   line-height: 30.1px;
   display: inline-block;
@@ -75,20 +79,25 @@ nav {
   font-weight: 400;
 }
 .navbar ul img {
-  padding-right: 1rem; 
+  padding-right: 1rem;
 }
-.nav-img{
-  display: block;
-  margin-right: 20px; 
+.end {
+  margin: 0 35rem; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
-.nav-img button {
+.end button{
   border: none;
-  background-color: #ff9c08;
+  background-color:#FF9C08;
+  margin-left: 1rem;
+  padding: 12px;
+  width: 130px;
   border-radius: 10px;
 }
-.nav-img button a {
-  color: black;
+.end button a{
   text-decoration: none;
+  color: black;
+  font-size: 16px;
   font-weight: 700;
-  padding: 15px;
 }
