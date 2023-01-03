@@ -60,6 +60,10 @@ nav{
   left: 0;
   right: 0;
 }
-nav ul{
+.navbar ul{
   list-style-type: none;
+}
+.navbar ul li {
+  display: inline-flex;
+ 
 }
