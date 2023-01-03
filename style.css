@@ -113,7 +113,11 @@ nav {
   font-size: 24px;
 }
 .btn-1{
+  border: none;
+  background-color:#FF9C08;
+  padding: 18px;
   
+  border-radius: 10px;
 }
 .btn-2{
 
