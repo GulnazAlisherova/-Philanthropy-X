@@ -122,4 +122,12 @@ nav {
 .btn-2{
   font-weight: 700;
   border-radius: 10px;
+  border: 1px solid lightgray;
+  padding: 18px;
+  margin: 0 1rem;
+  background-color: white;
+}
+.btn-2:hover{
+  background-color: #FF9C08;
+  border: none;
 }
