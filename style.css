@@ -53,3 +53,10 @@ body{
 .col-12 {
   flex: 0 0 100%;
 }
+nav{
+  background-color: white;
+  position: sticky;
+  top: 0;
+  left: 0;
+  right: 0;
+}
