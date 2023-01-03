@@ -84,3 +84,15 @@ nav {
 
   display: inline-block;
 }
+.nav-img{
+  display: flex;
+  justify-content: flex-end;
+}
+.nav-img button{
+  border: none;
+  background-color: #FF9C08;
+  border-radius: 10px;
+}
+.nav-img button a {
+  color: black;
+}
