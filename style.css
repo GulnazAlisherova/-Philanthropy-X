@@ -101,3 +101,20 @@ nav {
   font-size: 16px;
   font-weight: 700;
 }
+.first-side{
+  margin: 3rem;
+}
+.first-side h1{
+  font-size: 60px;
+  line-height: 79px;
+}
+.first-side p{
+  color: #6E6E6E;
+  font-size: 24px;
+}
+.btn-1{
+  
+}
+.btn-2{
+
+}
