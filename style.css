@@ -61,6 +61,7 @@ body {
 nav {
   background-color: white;
   display: flex;
+  margin: 1rem;
 }
 .navbar ul {
   list-style-type: none;
@@ -77,7 +78,7 @@ nav {
   color: #090909;
   padding: 1rem;
   font-weight: 400;
-}
+} 
 .navbar ul img {
   padding-right: 1rem;
 }
