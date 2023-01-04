@@ -78,120 +78,120 @@ nav {
   color: #090909;
   padding: 1rem;
   font-weight: 400;
-} 
+}
 .navbar ul img {
   padding-right: 1rem;
 }
 .end {
-  margin: 0 35rem; 
+  margin: 0 35rem;
   display: flex;
   align-items: center;
   justify-content: center;
 }
-.end button{
+.end button {
   border: none;
-  background-color:#FF9C08;
+  background-color: #ff9c08;
   margin-left: 1rem;
   padding: 12px;
   width: 130px;
   border-radius: 10px;
 }
-.end button a{
+.end button a {
   text-decoration: none;
   color: black;
   font-size: 16px;
   font-weight: 700;
 }
-.first-side{
+.first-side {
   margin-top: 207px;
   margin-left: 4rem;
   flex: 0 0 44%;
 }
- 
-.first-side h1{
+
+.first-side h1 {
   font-size: 60px;
   line-height: 79px;
 }
-.first-side p{
-  color: #6E6E6E;
+.first-side p {
+  color: #6e6e6e;
   font-size: 22px;
 }
-.btn-1{
+.btn-1 {
   border: none;
-  background-color:#FF9C08;
+  background-color: #ff9c08;
   padding: 18px;
   border-radius: 10px;
   font-weight: 700;
   border-color: transparent;
 }
-.btn-1:hover{
+.btn-1:hover {
   border: 1px solid lightgray;
   background-color: white;
-  transition: 1s;  
+  transition: 1s;
   cursor: pointer;
 }
-.btn-2{
+.btn-2 {
   font-weight: 700;
   border-radius: 10px;
   border: 1px solid lightgray;
   padding: 18px;
   margin: 0 1rem;
-  background-color: white;  
-  
+  background-color: white;
 }
-.btn-2:hover{
-  background-color: #FF9C08;
+.btn-2:hover {
+  background-color: #ff9c08;
   border-color: transparent;
   cursor: pointer;
   transition: 1s;
 }
-section{
+section {
   border-top: 1px solid lightgray;
 }
-header{
-  background-color: #FEF9F2;
+header {
+  background-color: #fef9f2;
   margin-top: 120px;
 }
-.header { 
-  margin: 62px; 
+.header {
+  margin: 62px;
   margin-top: 120px;
   text-align: center;
 }
-.header h1 { 
+.header h1 {
   font-weight: 700;
   font-size: 60px;
 }
-.header h1 b{
-  color: #FF9C08;
+.header h1 b {
+  color: #ff9c08;
 }
-.header p{
+.p {
   color: #6e6e6e;
   margin-bottom: 70px;
   font-size: 17px;
 }
-.main-left{
+.main-left {
   text-align: start;
-  margin-top: 198px;
-
+  margin-top: 250px;
 }
-.main-left  h3{
-  color: #FF9C08;
+.main-left h3 {
+  color: #ff9c08;
   text-transform: uppercase;
 }
-.main-left h1{
+.main-left h1 {
   font-size: 42px;
   line-height: 58px;
 }
-.main-right{
+.main-right {
   margin-top: 340px;
-  text-align: end; 
+  text-align: end;
 }
-.main-right button{
-  margin: 2rem .4rem;
+.main-right button {
+  margin: 2rem 0.4rem;
 }
-.main-right-p{
-  text-align: start; 
-  font-size: 16px;
-  font-weight: 400;
-  font-family: "DM Sans", sans-serif;
-} 
+.main-right-p {
+  text-align: start;
+  color: #6e6e6e; 
+}
+.paragraph {
+  margin-top: 3rem;
+  color: black;
+}
