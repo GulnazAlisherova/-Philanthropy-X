@@ -149,7 +149,7 @@ section {
 }
 header {
   background-color: #fef9f2;
-  margin-top: 120px;
+  margin-top: 120px ;
 }
 .header {
   margin: 62px;
@@ -194,4 +194,5 @@ header {
 .paragraph {
   margin-top: 3rem;
   color: black;
+  margin-bottom: 198px;
 }
