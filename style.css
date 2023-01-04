@@ -148,6 +148,7 @@ nav {
 section{
   border-top: 1px solid lightgray;
 }
+
 .header { 
   margin: 62px;
   text-align: center;
@@ -155,4 +156,7 @@ section{
 .header h1 { 
   font-weight: 700;
   font-size: 60px;
+}
+.header h1 b{
+  color: #FF9C08;
 }
