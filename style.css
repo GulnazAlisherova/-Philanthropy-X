@@ -164,3 +164,8 @@ header{
 .header h1 b{
   color: #FF9C08;
 }
+.header p{
+  color: #6e6e6e;
+  margin-bottom: 70px;
+  font-size: 17px;
+}
