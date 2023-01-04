@@ -152,6 +152,7 @@ section{
   margin: 62px;
   text-align: center;
 }
-.header h1 b{ 
+.header h1 { 
   font-weight: 700;
+  font-size: 60px;
 }
