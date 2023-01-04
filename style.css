@@ -203,6 +203,9 @@ header {
 .card-content{
   margin-top: 90px;
 }
+.main-block .little-text{
+  width: 570px;
+}
 /* .card-content {
   margin-top: 90px;
 }
