@@ -206,6 +206,9 @@ header {
 .main-block .little-text{
   width: 570px;
 }
+.card-icon{
+  display: flex;
+}
 /* .card-content {
   margin-top: 90px;
 }
