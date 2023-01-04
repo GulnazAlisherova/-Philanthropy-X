@@ -215,6 +215,7 @@ header {
 }
 .inline{
   display: flex;
+  flex-wrap: wrap;
 }
 /* .card-content {
   margin-top: 90px;
