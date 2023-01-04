@@ -222,3 +222,6 @@ header {
   color: #ff9c08;
   text-transform: uppercase;
 }
+.meta p{
+  text-transform: uppercase;
+}
