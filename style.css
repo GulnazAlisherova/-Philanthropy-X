@@ -224,4 +224,8 @@ header {
 }
 .meta p{
   text-transform: uppercase;
+  font-weight: 500;
+}
+.meta h1{
+
 }
