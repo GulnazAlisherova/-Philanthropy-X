@@ -189,3 +189,6 @@ header{
 .main-right button{
   margin: 2rem .4rem;
 }
+.main-right-p{
+  text-align: start; 
+}
