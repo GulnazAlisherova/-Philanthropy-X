@@ -222,10 +222,13 @@ header {
   color: #ff9c08;
   text-transform: uppercase;
 }
+.meta{
+  text-align: center;
+}
 .meta p{
   text-transform: uppercase;
   font-weight: 500;
 }
 .meta h1{
-
+  font-size: 42px;
 }
