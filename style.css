@@ -169,3 +169,9 @@ header{
   margin-bottom: 70px;
   font-size: 17px;
 }
+.main-left{
+  text-align: start;
+}
+.main-left  h3{
+  color: #FF9C08;
+}
