@@ -103,9 +103,9 @@ nav {
   font-weight: 700;
 }
 .first-side{
-  display: inline-block;
-  justify-content: center;
-  align-items: center;
+  margin-top: 207px;
+  margin-left: 4rem;
+  flex-direction: 0 0 44%;
 }
  
 .first-side h1{
@@ -114,7 +114,7 @@ nav {
 }
 .first-side p{
   color: #6E6E6E;
-  font-size: 24px;
+  font-size: 22px;
 }
 .btn-1{
   border: none;
@@ -150,9 +150,11 @@ section{
 }
 header{
   background-color: #FEF9F2;
+  margin-top: 120px;
 }
 .header { 
-  margin: 62px;
+  margin: 62px; 
+  margin-top: 120px;
   text-align: center;
 }
 .header h1 { 
