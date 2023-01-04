@@ -191,4 +191,13 @@ header{
 }
 .main-right-p{
   text-align: start; 
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "DM Sans", sans-serif;
+  color: #6e6e6e; 
+}
+.main-right-p p img{ 
+  text-align: center;
+  display: inline-block;
+  justify-content: center;
 }
