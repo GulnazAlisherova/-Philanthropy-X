@@ -148,7 +148,9 @@ nav {
 section{
   border-top: 1px solid lightgray;
 }
-
+header{
+  background-color: #FEF9F2;
+}
 .header { 
   margin: 62px;
   text-align: center;
