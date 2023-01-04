@@ -196,3 +196,22 @@ header {
   color: black;
   margin-bottom: 198px;
 }
+.card {
+  display: flex;
+}
+/* .card-content {
+  margin-top: 90px;
+}
+.main-block .little-text {
+  width: 570px;
+}
+.card-icon {
+  display: flex;
+  flex-direction: row;
+  height: 78px;
+  margin-bottom: 30px;
+}
+.inline {
+  display: flex;
+  flex-wrap: wrap;
+} */
