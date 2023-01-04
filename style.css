@@ -9,7 +9,7 @@ body {
   box-sizing: border-box;
 }
 .container {
-  max-width: 1300px;
+  max-width: 1400px;
   margin: 0 auto;
 }
 .row {
@@ -172,8 +172,13 @@ header{
 .main-left{
   text-align: start;
   margin-top: 198px;
+
 }
 .main-left  h3{
   color: #FF9C08;
   text-transform: uppercase;
+}
+.main-left h1{
+  font-size: 42px;
+  line-height: 58px;
 }
