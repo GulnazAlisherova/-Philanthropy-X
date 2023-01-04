@@ -148,3 +148,8 @@ nav {
 section{
   border-top: 1px solid lightgray;
 }
+.header { 
+  margin: 62px;
+  text-align: center;
+}
+.header
