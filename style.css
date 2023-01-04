@@ -173,8 +173,6 @@ header {
   margin-top: 250px;
 }
 .main-left h3 {
-  color: #ff9c08;
-  text-transform: uppercase;
 }
 .main-left h1 {
   font-size: 42px;
@@ -219,4 +217,9 @@ header {
 }
 .btn{
   margin-top: 3rem;
+}
+.orange-text{
+
+  color: #ff9c08;
+  text-transform: uppercase;
 }
