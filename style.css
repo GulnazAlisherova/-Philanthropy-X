@@ -9,7 +9,7 @@ body {
   box-sizing: border-box;
 }
 .container {
-  max-width: 1400px;
+  max-width: 1349px;
   margin: 0 auto;
 }
 .row {
@@ -184,6 +184,8 @@ header{
 }
 .main-right{
   margin-top: 340px;
-  text-align: end;
-  
+  text-align: end; 
+}
+.main-right button{
+  margin: 2rem .4rem;
 }
