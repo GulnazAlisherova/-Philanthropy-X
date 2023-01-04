@@ -198,7 +198,7 @@ header {
 }
 .card {
   display: flex;
-  margin: 300px 100px 200px 100px;
+  margin: 200px 100px 200px 100px;
 }
 .card-content{
   margin-top: 90px;
