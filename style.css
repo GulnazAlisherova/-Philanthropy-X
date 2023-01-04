@@ -105,7 +105,7 @@ nav {
 .first-side{
   margin-top: 207px;
   margin-left: 4rem;
-  flex-direction: 0 0 44%;
+  flex: 0 0 44%;
 }
  
 .first-side h1{
