@@ -208,6 +208,7 @@ header {
 }
 .card-icon{
   display: flex;
+  flex-direction: row;
 }
 /* .card-content {
   margin-top: 90px;
