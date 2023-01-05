@@ -279,10 +279,9 @@ header {
   border: 1px solid lightgray;
 }
 .content{
-  background-image: url(./assets/background.png);
-  align-items: center;
+  background-image: url(./assets/background.png); 
+  background-repeat: no-repeat;
+  background-size: cover;
   width: 1220px;
   margin: 4rem 1rem;
-  text-align: center;
-  background-repeat: no-repeat;
 }
