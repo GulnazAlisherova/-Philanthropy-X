@@ -319,3 +319,10 @@ header {
 .penalty {
   margin-bottom: 9rem;
 }
+footer nav ul{
+ list-style-type: none;
+}
+footer nav ul li a{
+  text-decoration: none;
+  color: #3F3F3F;
+}
