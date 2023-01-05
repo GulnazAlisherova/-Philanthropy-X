@@ -327,3 +327,7 @@ footer nav ul li a {
   color: #3f3f3f;
   font-size: 18px;
 }
+.footer-image{
+  width: 370px;
+  background-image: url(./assets/footer-img.png);
+}
