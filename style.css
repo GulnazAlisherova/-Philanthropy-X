@@ -346,6 +346,7 @@ footer nav ul li a {
 }
 .square{
   background-color: #090909;
-  width: 18px;
-  
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
 }
