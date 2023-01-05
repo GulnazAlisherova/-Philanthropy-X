@@ -268,20 +268,28 @@ header {
   float: right;
   margin: 4rem 1rem;
 }
-.card2{
+.card2 {
   border-radius: 12px;
   padding: 1rem;
   align-items: center;
   text-align: center;
-  margin: 1rem 10px ;
-  box-shadow:  0px 2px 12px rgba(43, 43, 43, 0.06);;
+  margin: 1rem 10px;
+  box-shadow: 0px 2px 12px rgba(43, 43, 43, 0.06);
   width: 350px;
   border: 1px solid lightgray;
 }
-.content{
-  background-image: url(./assets/background.png); 
+.content {
+  background-image: url(./assets/background.png);
   background-repeat: no-repeat;
   background-size: cover;
   width: 1220px;
+  height: 436px;
   margin: 4rem 1rem;
+  text-align: center;
+}
+.content h1 {
+  text-align: center;
+}
+.content button {
+  margin-right: 3rem;
 }
