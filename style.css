@@ -266,4 +266,5 @@ header {
 }
 .help button {
   float: right;
+  margin: 4rem 1rem;
 }
