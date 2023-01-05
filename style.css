@@ -310,3 +310,7 @@ header {
   margin: 3rem;
   text-align: center;
 }
+.penalty button{
+  display: block;
+  
+}
