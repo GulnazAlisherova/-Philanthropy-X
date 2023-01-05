@@ -226,7 +226,6 @@ header {
   text-align: center;
   padding-top: 198px;
   padding-bottom: 397px;
-
 }
 .meta p {
   text-transform: uppercase;
@@ -235,7 +234,7 @@ header {
 .meta h1 {
   font-size: 42px;
 }
-.btn-3{
+.btn-3 {
   color: white;
   cursor: pointer;
   border: none;
@@ -245,7 +244,7 @@ header {
   margin: 0 1rem;
   font-weight: 700;
 }
-.btn-4{
+.btn-4 {
   cursor: pointer;
   font-weight: 700;
   border: 1px solid lightgray;
@@ -253,10 +252,18 @@ header {
   padding: 18px;
   border-radius: 10px;
 }
-.video-part{
+.video-part {
   margin-left: 100px;
   margin-top: -300px;
 }
-.margin{
+.margin {
   margin: 2rem 1rem 3rem 1rem;
+}
+.help {
+  margin-top: 8rem;
+  margin-left: 100px;
+  margin-bottom: 100px;
+}
+.help button {
+  float: right;
 }
