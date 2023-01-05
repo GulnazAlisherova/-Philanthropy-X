@@ -293,24 +293,24 @@ header {
 .content button {
   margin-right: 3rem;
 }
-.lead{
-  background-color:#FEF9F2;
+.lead {
+  background-color: #fef9f2;
   margin: 7rem 1rem;
 }
-.first-part{
+.first-part {
   margin-top: 200px;
 }
-.second-part{
-  margin: 300px 1.2rem
+.second-part {
+  margin: 300px 1.2rem;
 }
-.second-part button{
+.second-part button {
   margin-top: 2rem;
 }
-.desc{
+.desc {
   margin: 3rem;
   text-align: center;
 }
-.penalty button{
+.penalty button {
   position: relative;
   left: 42%;
   margin: 1rem;
@@ -319,11 +319,11 @@ header {
 .penalty {
   margin-bottom: 9rem;
 }
-footer nav ul{
- list-style-type: none;
+footer nav ul {
+  list-style-type: none;
 }
-footer nav ul li a{
+footer nav ul li a {
   text-decoration: none;
-  color: #3F3F3F;
+  color: #3f3f3f;
   font-size: 18px;
 }
