@@ -238,6 +238,7 @@ header {
   border: none;
   background-color: #090909;
   padding: 18px;
+  border-radius: 10px;
   margin: 0 1rem;
 }
 .btn-4{
