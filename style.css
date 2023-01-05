@@ -245,4 +245,5 @@ header {
   border: 1px solid gray;
   background-color: white;
   padding: 18px;
+  border-radius: 10px;
 }
