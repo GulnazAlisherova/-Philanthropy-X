@@ -303,3 +303,6 @@ header {
 .second-part{
   margin: 300px 1.2rem
 }
+.second-part button{
+  margin-top: 2rem;
+}
