@@ -334,3 +334,7 @@ footer nav ul li a {
   border-radius: 14px;
   background-image: url(./assets/footer-img.png);
 }
+.footer-image button{
+  width: 292px;
+  margin-top: 1rem;
+}
