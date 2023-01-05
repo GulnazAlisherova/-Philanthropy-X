@@ -293,3 +293,7 @@ header {
 .content button {
   margin-right: 3rem;
 }
+.lead{
+  background-color:#FEF9F2;
+  margin: 7rem 1rem;
+}
