@@ -306,3 +306,7 @@ header {
 .second-part button{
   margin-top: 2rem;
 }
+.desc{
+  margin: 3rem;
+  text-align: center;
+}
