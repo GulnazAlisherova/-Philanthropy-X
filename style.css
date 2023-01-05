@@ -268,3 +268,6 @@ header {
   float: right;
   margin: 4rem 1rem;
 }
+.card2{
+  border: 1px solid lightgray;
+}
