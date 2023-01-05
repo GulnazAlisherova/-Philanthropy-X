@@ -297,6 +297,9 @@ header {
   background-color:#FEF9F2;
   margin: 7rem 1rem;
 }
+.first-part{
+  margin-top: 200px;
+}
 .second-part{
-  margin: 4rem 1.2rem
+  margin: 300px 1.2rem
 }
