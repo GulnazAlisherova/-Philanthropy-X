@@ -222,8 +222,10 @@ header {
   text-transform: uppercase;
 }
 .meta {
+  background-color: #ffd4a4;
   text-align: center;
-  width: 754px;
+  padding-top: 198px;
+  padding-bottom: 397px
 }
 .meta p {
   text-transform: uppercase;
