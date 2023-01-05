@@ -269,5 +269,6 @@ header {
   margin: 4rem 1rem;
 }
 .card2{
+  border-radius: 12px;
   border: 1px solid lightgray;
 }
