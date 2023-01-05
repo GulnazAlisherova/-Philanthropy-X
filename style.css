@@ -237,6 +237,7 @@ header {
 }
 .btn-3{
   color: white;
+  cursor: pointer;
   border: none;
   background-color: #090909;
   padding: 18px;
@@ -245,6 +246,7 @@ header {
   font-weight: 700;
 }
 .btn-4{
+  cursor: pointer;
   font-weight: 700;
   border: 1px solid lightgray;
   background-color: white;
