@@ -313,4 +313,6 @@ header {
 .penalty button{
   position: relative;
   left: 42%;
+  margin: 1rem;
+  transform: translate(-50%, 0);
 }
