@@ -240,8 +240,10 @@ header {
   padding: 18px;
   border-radius: 10px;
   margin: 0 1rem;
+  font-weight: 700;
 }
 .btn-4{
+  font-weight: 700;
   border: 1px solid lightgray;
   background-color: white;
   padding: 18px;
