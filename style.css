@@ -327,8 +327,9 @@ footer nav ul li a {
   color: #3f3f3f;
   font-size: 18px;
 }
-.footer-image{
+.footer-image {
   width: 370px;
+  padding: 1rem;
   height: 350px;
   border-radius: 14px;
   background-image: url(./assets/footer-img.png);
