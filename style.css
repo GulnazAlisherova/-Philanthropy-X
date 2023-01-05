@@ -316,3 +316,6 @@ header {
   margin: 1rem;
   transform: translate(-50%, 0);
 }
+.penalty {
+  margin-bottom: 9rem;
+}
