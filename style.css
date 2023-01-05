@@ -270,5 +270,10 @@ header {
 }
 .card2{
   border-radius: 12px;
+  padding: 1rem;
+  align-items: center;
+  text-align: center;
+  margin: 1rem;
+  
   border: 1px solid lightgray;
 }
