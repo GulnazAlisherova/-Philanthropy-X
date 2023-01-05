@@ -311,6 +311,5 @@ header {
   text-align: center;
 }
 .penalty button{
-  display: block;
-  
+  position: relative;
 }
