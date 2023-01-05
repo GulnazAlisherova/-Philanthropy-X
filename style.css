@@ -329,5 +329,6 @@ footer nav ul li a {
 }
 .footer-image{
   width: 370px;
+  height: 350px;
   background-image: url(./assets/footer-img.png);
 }
