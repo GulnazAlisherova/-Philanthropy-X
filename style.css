@@ -334,6 +334,7 @@ footer nav ul li a {
   border-radius: 14px;
   background-image: url(./assets/footer-img.png);
 }
+ 
 .footer-image h2{
   margin-top: 2rem;
 }
@@ -349,4 +350,7 @@ footer nav ul li a {
   width: 36px;
   height: 36px;
   border-radius: 8px;
+  margin: 11px;
+  margin-top: 7px;
+  margin-bottom: 20px;
 }
