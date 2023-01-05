@@ -278,3 +278,11 @@ header {
   width: 350px;
   border: 1px solid lightgray;
 }
+.content{
+  background-image: url(./assets/background.png);
+  align-items: center;
+  width: 1220px;
+  margin: 4rem 1rem;
+  text-align: center;
+  background-repeat: no-repeat;
+}
